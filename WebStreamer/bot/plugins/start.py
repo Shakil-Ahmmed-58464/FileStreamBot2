@@ -14,8 +14,8 @@ START_TEXT = """
 <i>I'ᴍ Tᴇʟᴇɢʀᴀᴍ Fɪʟᴇs Sᴛʀᴇᴀᴍɪɴɢ Bᴏᴛ ᴀs ᴡᴇʟʟ Dɪʀᴇᴄᴛ Lɪɴᴋs Gᴇɴᴇʀᴀᴛᴇ</i>\n
 <i>Cʟɪᴄᴋ ᴏɴ Hᴇʟᴘ ᴛᴏ ɢᴇᴛ ᴍᴏʀᴇ ɪɴғᴏʀᴍᴀᴛɪᴏɴ</i>\n
 <i><u>𝗪𝗔𝗥𝗡𝗜𝗡𝗚 🚸</u></i>
-<b>🔞 Pʀᴏɴ ᴄᴏɴᴛᴇɴᴛꜱ ʟᴇᴀᴅꜱ ᴛᴏ ᴘᴇʀᴍᴀɴᴇɴᴛ ʙᴀɴ ʏᴏᴜ.</b>\n\n
-<i><b>🍃 Bᴏᴛ Mᴀɪɴᴛᴀɪɴᴇᴅ Bʏ :</b>@AvishkarPatil</i>"""
+<b>🚫 HARAM Contents will lead permanent ban to you.</b>\n\n
+<i><b>🍃 Bᴏᴛ Mᴀɪɴᴛᴀɪɴᴇᴅ Bʏ :</b>@shakilahmmedwakil</i>"""
 
 HELP_TEXT = """
 <i>- Sᴇɴᴅ ᴍᴇ ᴀɴʏ ꜰɪʟᴇ (ᴏʀ) ᴍᴇᴅɪᴀ ꜰʀᴏᴍ ᴛᴇʟᴇɢʀᴀᴍ.</i>
@@ -23,36 +23,36 @@ HELP_TEXT = """
 <i>- Aᴅᴅ Mᴇ ɪɴ ʏᴏᴜʀ Cʜᴀɴɴᴇʟ Fᴏʀ Dɪʀᴇᴄᴛ Dᴏᴡɴʟᴏᴀᴅ Lɪɴᴋs Bᴜᴛᴛᴏɴ</i>
 <i>- Tʜɪs Pᴇʀᴍᴇᴀɴᴛ Lɪɴᴋ Wɪᴛʜ Fᴀsᴛᴇsᴛ Sᴘᴇᴇᴅ</i>\n
 <u>🔸 𝗪𝗔𝗥𝗡𝗜𝗡𝗚 🚸</u>\n
-<b>🔞 Pʀᴏɴ ᴄᴏɴᴛᴇɴᴛꜱ ʟᴇᴀᴅꜱ ᴛᴏ ᴘᴇʀᴍᴀɴᴇɴᴛ ʙᴀɴ ʏᴏᴜ.</b>\n
-<i>Cᴏɴᴛᴀᴄᴛ ᴅᴇᴠᴇʟᴏᴘᴇʀ (ᴏʀ) ʀᴇᴘᴏʀᴛ ʙᴜɢꜱ</i> <b>: <a href='https://t.me/Avishkarpatil'>[ ᴄʟɪᴄᴋ ʜᴇʀᴇ ]</a></b>"""
+<b>🚫 HARAM Contents will lead permanent ban to you.</b>\n
+<i>Cᴏɴᴛᴀᴄᴛ ᴅᴇᴠᴇʟᴏᴘᴇʀ (ᴏʀ) ʀᴇᴘᴏʀᴛ ʙᴜɢꜱ</i> <b>: <a href='https://t.me/shakilahmmedwakil'>[ ᴄʟɪᴄᴋ ʜᴇʀᴇ ]</a></b>"""
 
 ABOUT_TEXT = """
-<b>⚜ Mʏ ɴᴀᴍᴇ : FileStreamX</b>\n
-<b>🔸Vᴇʀꜱɪᴏɴ : <a href='https://telegram.me/AvishkarPatil'>3.0.1</a></b>\n
-<b>🔹Sᴏᴜʀᴄᴇ : <a href='https://github.com/avipatilpro/FileStreamBot'>Cʟɪᴄᴋ Hᴇʀᴇ</a></b>\n
-<b>🔸GitHub : <a href='https://GitHub.com/avipatilpro'>Fᴏʟʟᴏᴡ</a></b>\n
-<b>🔹Dᴇᴠᴇʟᴏᴘᴇʀ : <a href='https://telegram.me/Avishkarpatil'>Aᴠɪsʜᴋᴀʀ Pᴀᴛɪʟ</a></b>\n
-<b>🔸Lᴀꜱᴛ ᴜᴘᴅᴀᴛᴇᴅ : <a href='https://telegram.me/AvishkarPatil'>[ 11-ᴊᴜʟʏ-21 ] 04:35 PM</a></b>"""
+<b>⚜ Mʏ ɴᴀᴍᴇ : Immediate File 2 Link Bot</b>\n
+<b>🔸Vᴇʀꜱɪᴏɴ : <a href='https://t.me/shakilahmmedwakil'>3.0.1</a></b>\n
+<b>🔹Sᴏᴜʀᴄᴇ : <a href='https://github.com/Shakil-Ahmmed-58464/FileStreamBot'>Cʟɪᴄᴋ Hᴇʀᴇ</a></b>\n
+<b>🔸GitHub : <a href='https://GitHub.com/Shakil-Ahmmed-58464'>Fᴏʟʟᴏᴡ</a></b>\n
+<b>🔹Dᴇᴠᴇʟᴏᴘᴇʀ : <a href='https://t.me/shakilahmmedwakil'>Shakil Ahmmed Wakil</a></b>\n
+<b>🔸Lᴀꜱᴛ ᴜᴘᴅᴀᴛᴇᴅ : <a href='https://t.me/shakilahmmedwakil'>[ 11-ᴊᴜʟʏ-21 ] 04:35 PM</a></b>"""
 
 START_BUTTONS = InlineKeyboardMarkup(
         [[
-        InlineKeyboardButton('Hᴇʟᴘ', callback_data='help'),
-        InlineKeyboardButton('Aʙᴏᴜᴛ', callback_data='about'),
-        InlineKeyboardButton('Cʟᴏsᴇ', callback_data='close')
+        InlineKeyboardButton('HELP', callback_data='help'),
+        InlineKeyboardButton('ABOUT', callback_data='about'),
+        InlineKeyboardButton('CLOSE', callback_data='close')
         ]]
     )
 HELP_BUTTONS = InlineKeyboardMarkup(
         [[
-        InlineKeyboardButton('Hᴏᴍᴇ', callback_data='home'),
-        InlineKeyboardButton('Aʙᴏᴜᴛ', callback_data='about'),
-        InlineKeyboardButton('Cʟᴏsᴇ', callback_data='close')
+        InlineKeyboardButton('HOME', callback_data='home'),
+        InlineKeyboardButton('ABOUT', callback_data='about'),
+        InlineKeyboardButton('CLOSE', callback_data='close')
         ]]
     )
 ABOUT_BUTTONS = InlineKeyboardMarkup(
         [[
-        InlineKeyboardButton('Hᴏᴍᴇ', callback_data='home'),
-        InlineKeyboardButton('Hᴇʟᴘ', callback_data='help'),
-        InlineKeyboardButton('Cʟᴏsᴇ', callback_data='close')
+        InlineKeyboardButton('HOME', callback_data='home'),
+        InlineKeyboardButton('HELP', callback_data='help'),
+        InlineKeyboardButton('CLOSE', callback_data='close')
         ]]
     )
 
@@ -101,7 +101,7 @@ async def start(b, m):
         await db.add_user(m.from_user.id)
         await b.send_message(
             Var.BIN_CHANNEL,
-            f"**Nᴇᴡ Usᴇʀ Jᴏɪɴᴇᴅ:** \n\n__Mʏ Nᴇᴡ Fʀɪᴇɴᴅ__ [{m.from_user.first_name}](tg://user?id={m.from_user.id}) __Sᴛᴀʀᴛᴇᴅ Yᴏᴜʀ Bᴏᴛ !!__"
+            f"**NEW USER JOINED:** \n\n__MY NEW FRIEND__ [{m.from_user.first_name}](tg://user?id={m.from_user.id}) __STARTED YOUR BOT !!__"
         )
     usr_cmd = m.text.split("_")[-1]
     if usr_cmd == "/start":
@@ -111,7 +111,7 @@ async def start(b, m):
                 if user.status == "kicked":
                     await b.send_message(
                         chat_id=m.chat.id,
-                        text="__Sᴏʀʀʏ Sɪʀ, Yᴏᴜ ᴀʀᴇ Bᴀɴɴᴇᴅ ᴛᴏ ᴜsᴇ ᴍᴇ. Cᴏɴᴛᴀᴄᴛ ᴛʜᴇ Dᴇᴠᴇʟᴏᴘᴇʀ__\n\n @AvishkarPatil **Tʜᴇʏ Wɪʟʟ Hᴇʟᴘ Yᴏᴜ**",
+                        text="__SORRY SIR, YOU ARE BANNED TO USE ME. CONTACT THE DEVELOPER__\n\n @shakilahmmedwakil **HE CAN HELP YOU**",
                         parse_mode="markdown",
                         disable_web_page_preview=True
                     )
@@ -119,10 +119,10 @@ async def start(b, m):
             except UserNotParticipant:
                 await b.send_message(
                     chat_id=m.chat.id,
-                    text="<i>Jᴏɪɴ ᴍʏ ᴜᴘᴅᴀᴛᴇ ᴄʜᴀɴɴᴇʟ ᴛᴏ ᴜsᴇ ᴍᴇ 🔐</i>",
+                    text="<i>JOIN MY UPDATES CHANNEL TO USE ME 🔐</i>",
                     reply_markup=InlineKeyboardMarkup(
                         [[
-                            InlineKeyboardButton("Jᴏɪɴ ɴᴏᴡ 🔓", url=f"https://t.me/{Var.UPDATES_CHANNEL}")
+                            InlineKeyboardButton("JOIN NOW 🔓", url=f"https://t.me/{Var.UPDATES_CHANNEL}")
                             ]]
                     ),
                     parse_mode="HTML"
@@ -131,7 +131,7 @@ async def start(b, m):
             except Exception:
                 await b.send_message(
                     chat_id=m.chat.id,
-                    text="<i>Sᴏᴍᴇᴛʜɪɴɢ ᴡʀᴏɴɢ ᴄᴏɴᴛᴀᴄᴛ ᴍʏ ᴅᴇᴠᴇʟᴏᴘᴇʀ</i> <b><a href='http://t.me/Avishkarpatil'>[ ᴄʟɪᴄᴋ ʜᴇʀᴇ ]</a></b>",
+                    text="<p>SOMETHING WENT WRONG. Contact My Developer</p> <b><a href='https://t.me/shakilahmmedwakil'>[ CLICK HERE ]</a></b>",
                     parse_mode="HTML",
                     disable_web_page_preview=True)
                 return
